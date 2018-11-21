@@ -2,7 +2,7 @@
 Azure SignalR demo using Azure functions 
 
 
-[![alt](http://link)]
+![alt](https://mteheran.files.wordpress.com/2018/11/signalrchat.jpg)
 
 Within the project FuctionChat.csproj Create or Update "local.settings.json" using the following information:
 
@@ -44,3 +44,5 @@ Within the project SignalRChat.csproj Create or Update "local.settings.json" usi
   }
 }
 ```
+
+Open SignalRChat.sln and Run both projects at the same time
