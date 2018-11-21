@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionChat", "FunctionChat\FunctionChat.csproj", "{603B9BDF-6348-4E3E-9D30-628AF85FD859}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{603B9BDF-6348-4E3E-9D30-628AF85FD859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603B9BDF-6348-4E3E-9D30-628AF85FD859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603B9BDF-6348-4E3E-9D30-628AF85FD859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603B9BDF-6348-4E3E-9D30-628AF85FD859}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {030BB1CF-CBE5-4C38-9698-F957C6CDEC37}
+	EndGlobalSection
+EndGlobal
